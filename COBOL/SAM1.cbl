@@ -7,7 +7,7 @@
       * CONTRACT WITH IBM CORPORATION
       ****************************************************************
       * PROGRAM:  SAM1
-      * testline
+      * testline1
       *
       * AUTHOR :  Doug Stout
       *
