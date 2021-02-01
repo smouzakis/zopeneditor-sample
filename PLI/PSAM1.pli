@@ -23,7 +23,7 @@
   * *        <== AN ASTERISK IN FIRST COLUMN IS A COMMENT
   * PRINT    <== PRODUCES A DETAIL REPORT
   * TOTALS   <== PRODUCES A SUMMARY REPORT
-  *
+  * IOANNA
   ****************************************************************/
 
    DCL DUMP_FINDER CHAR(30) INIT('*STORAGE FOR PROGRAM PSAM1***');

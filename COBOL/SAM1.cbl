@@ -136,7 +136,7 @@
        COPY CUSTCOPY REPLACING ==:TAG:== BY ==WS-CUST==.
 
       *        *******************
-      *            report lines
+      *            report lines1
       *        *******************
        01  ERR-MSG-BAD-TRAN.
            05  FILLER PIC X(31)
