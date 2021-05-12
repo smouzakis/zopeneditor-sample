@@ -25,6 +25,7 @@
        01  :TAG:-REC.
            05  :TAG:-KEY.
                10  :TAG:-ID             PIC X(5).
+               11  :TAG:-ID             PIC X(5).
                10  :TAG:-REC-TYPE       PIC X.
            05  :TAG:-NAME               PIC X(17).
       *****05  :TAG:-ACCT-BALANCE       PIC S9(7)V99  COMP-3.
