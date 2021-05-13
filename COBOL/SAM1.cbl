@@ -34,7 +34,7 @@
       *
       *****************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. SAM1.
+       PROGRAM-ID. SAM10.
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
@@ -57,7 +57,7 @@
        DATA DIVISION.
        FILE SECTION.
 
-       FD  CUSTOMER-FILE
+       FD  CUSTOMER-FILE1
            RECORDING MODE IS V
            RECORD IS VARYING FROM 20 TO 596 CHARACTERS.
        COPY CUSTCOPY REPLACING ==:TAG:== BY ==CUST==.
