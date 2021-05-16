@@ -278,7 +278,7 @@
        NUMB_11 = NUM_CUSTOMER_RECS;
        PUT FILE (CUSTRPT)
           EDIT ('RECORD COUNTS:',
-          ' ALL TYPES:', NUMA_11,
+          ' ALL TYPES:', NUMA_1I,
           ' ALL TYPES:', NUMA_11,
           ' CUST RECS:', NUMB_11 )
           (R(FMT_TOT1));
